@@ -1,3 +1,5 @@
+##	gluon site.mk makefile
+
 ##	GLUON_FEATURES
 #		Specify Gluon features/packages to enable;
 #		Gluon will automatically enable a set of packages
@@ -5,8 +7,8 @@
 
 GLUON_FEATURES := \
 	authorized-keys \
-	mesh-babel \
 	l3roamd \
+	mesh-babel \
 	mesh-vpn-fastd \
 	respondd \
 	status-page \
