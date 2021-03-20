@@ -7,6 +7,7 @@
 
 GLUON_FEATURES := \
 	authorized-keys \
+	autoupdater \
 	l3roamd \
 	mesh-babel \
 	mesh-vpn-fastd \
